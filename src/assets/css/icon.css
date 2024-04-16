@@ -1,0 +1,10 @@
+.ico {
+    display: block;
+    cursor: pointer;
+}
+.ico.arrow-down {
+    width: 24px;
+    height: 24px;
+    background: url('../images/ico_arrow_down.png') center center/cover no-repeat;
+
+}

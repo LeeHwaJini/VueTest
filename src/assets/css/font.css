@@ -1,0 +1,7 @@
+/* src/assets/global.css */
+@import url('https://cdn.jsdelivr.net/gh/sun-typeface/SUITE/fonts/static/woff2/SUITE.css');
+
+body {
+    font-family: 'SUITE', sans-serif;
+    letter-spacing: -0.86px;
+}
